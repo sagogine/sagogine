@@ -1,11 +1,11 @@
-# 👋 Hi, I’m SG
+# Hi, I’m Sandeep Gogineni
 
-I build and write about applying AI to **business, data, and analytics systems** — with a focus on where it **breaks in the real world**, and why **tradeoffs matter more than tools**.
+I build and write about applying **AI to business, data, and analytics systems** — with a focus on where it **breaks in the real world**, and why **tradeoffs matter more than tools**.
 
-Most AI content optimizes for demos.
-Most enterprises fail at production.
+Most AI narratives optimize for demos.  
+Most enterprises struggle with production, cost, and trust.
 
-This space is about closing that gap.
+This work sits in that gap.
 
 ---
 
@@ -25,18 +25,17 @@ This space is about closing that gap.
 
 ---
 
-## Flagship work
+## What you’ll find here
 
-- 🔗 **ai-in-real-systems**  
-  Essays, prototypes, and experiments exploring AI under real-world constraints.  
-  → https://github.com/<your-username>/ai-in-real-systems
+Clear thinking about applying AI to real business, data, and analytics systems —  
+grounded in production constraints, not demos.
+
+This work optimizes for **reducing risk, cost, and false confidence** when AI is applied to business-critical systems.
 
 ---
 
-## How this content is published
+## Flagship work
 
-- **GitHub** → canonical source (engineering-first, opinionated)
-- **Medium** → narrative and broader context
-- **LinkedIn** → framing insights for business and executive audiences
-
-Everything starts on GitHub.
+- **ai-in-real-systems**  
+  Essays, prototypes, and experiments exploring AI under real-world constraints.  
+  https://github.com/sagogine/ai-in-real-systems
